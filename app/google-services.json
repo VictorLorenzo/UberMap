@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723532198728",
+    "firebase_url": "https://ubermap-4f1ca.firebaseio.com",
+    "project_id": "ubermap-4f1ca",
+    "storage_bucket": "ubermap-4f1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723532198728:android:84bb439520e2199037b97d",
+        "android_client_info": {
+          "package_name": "com.example.ubermap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723532198728-vn8er6rp4pb7pqunklbfmh5k6kshvmje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ubermap",
+            "certificate_hash": "1bda5d60ef2316b6793c8ba9e8377f8426dc65ed"
+          }
+        },
+        {
+          "client_id": "723532198728-2r6v0t48m2s6o4qb1r182e1vm9b822t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHEM6QYIJSAWz-hbEhbQPI3T4U7GEdLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723532198728-2r6v0t48m2s6o4qb1r182e1vm9b822t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
